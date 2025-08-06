@@ -2,7 +2,7 @@
 
 
 # 👨‍💻 About Me:
-I'm currently pursuing my Master's in Data Science & Machine Learning @ NUS, with a focus on applied machine learning and data storytelling. <br><br>💡 Interests: Growth Analytics, A/B Testing, NLP, Supervised/Unsupervised learning <br>📈 Currently exploring: User engagement modeling and suspicious content behaviour analysis
+I'm currently pursuing my Master's in Data Science & Machine Learning @ NUS, with a focus on predictive analytics, applied machine learning and data storytelling. <br><br>💡 Interests: Growth Analytics, A/B Testing, NLP, Supervised/Unsupervised learning <br>📈 Currently exploring: User engagement modeling and suspicious content behaviour analysis
 
 
 ## 🌐 Contact Me:
