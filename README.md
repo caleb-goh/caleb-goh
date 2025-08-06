@@ -2,7 +2,7 @@
 
 
 # 👨‍💻 About Me:
-I'm currently pursuing my Master's in Data Science & Machine Learning @ NUS, with a focus on applied machine learning, data storytelling, and real-world product analytics. I enjoy building end-to-end projects that uncover insights, solve problems, and make an impact.<br><br>💡 Interests: Growth Analytics, Recommender Systems, A/B Testing, NLP<br>📈 Currently exploring: TikTok-style user engagement modeling and retention analysis
+I'm currently pursuing my Master's in Data Science & Machine Learning @ NUS, with a focus on applied machine learning and data storytelling <br>💡 Interests: Growth Analytics, A/B Testing, NLP, Supervised/Unsupervised learning <br>📈 Currently exploring: User engagement modeling and suspicious content behaviour analysis
 
 
 ## 🌐 Contact Me!:
