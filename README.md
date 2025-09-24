@@ -1,10 +1,6 @@
 ### Hi, I'm Caleb!
 
 
-# 👨‍💻 About Me:
-I'm currently pursuing my Master's in Data Science & Machine Learning @ NUS, with a focus on predictive analytics, applied machine learning and data storytelling. <br><br>💡 Interests: Growth Analytics, A/B Testing, NLP, Supervised/Unsupervised learning <br>📈 Currently exploring: User engagement modeling and suspicious content behaviour analysis
-
-
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goh-chi-min/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gohchimin@u.nus.edu) 
 
