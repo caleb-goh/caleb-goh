@@ -1,5 +1,7 @@
 ### Hi, I'm Caleb!
 
+I focus on turning complex data into insights that teams can act on. I enjoy breaking down ambiguity, asking the right questions, and translating data into clear, practical recommendations.
+If you’d like to connect or chat about data and analytics, feel free to reach out!
 
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goh-chi-min/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gohchimin@u.nus.edu) 
